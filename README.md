@@ -24,4 +24,4 @@ The following image shows the web application's appearance and functionality:
 ![Screenshot](https://github.com/ArsenioRogers/FastPASS/blob/main/FastPASS/Assets/FastPASS%20Screenshot.png)
 
 # LIVE URL 
-https://arseniorogers.github.io/The-Social-Solution/
+https://arseniorogers.github.io/FastPASS/
