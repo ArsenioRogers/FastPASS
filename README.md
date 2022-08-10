@@ -21,7 +21,7 @@ Created a password generator that enables employees to generate random yet secur
 # SCREENSHOT
 The following image shows the web application's appearance and functionality:
 
-![Screenshot](https://user-images.githubusercontent.com/107453534/178571961-debd5ac5-3dc8-4fee-ab95-8ce810daa5ca.png)
+![Screenshot](https://github.com/ArsenioRogers/FastPASS/blob/main/FastPASS/Assets/FastPASS%20Screenshot.png)
 
 # LIVE URL 
 https://arseniorogers.github.io/The-Social-Solution/
