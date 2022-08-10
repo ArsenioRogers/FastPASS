@@ -17,6 +17,11 @@ Created a password generator that enables employees to generate random yet secur
 
 * Once the password is generated it's written to the page
   
+
+# SCREENSHOT
+The following image shows the web application's appearance and functionality:
+
 ![Screenshot](https://user-images.githubusercontent.com/107453534/178571961-debd5ac5-3dc8-4fee-ab95-8ce810daa5ca.png)
 
-Live URL: https://arseniorogers.github.io/The-Social-Solution/
+# LIVE URL 
+https://arseniorogers.github.io/The-Social-Solution/
